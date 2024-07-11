@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @quasar-pankaj
+- 👋 Hi, I’m Pankaj Agarwal @quasar-pankaj
 - 👀 I’m interested in Android Development, Flutter Development, Qt, 
 - 🌱 I’m currently learning Qt
 - 💞️ I’m looking to collaborate on Some open Source Projects and also create a few open source projects myself
